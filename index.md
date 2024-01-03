@@ -283,7 +283,8 @@ Edit the text to match who can attend the workshop. For instance:
     <strong>Who can attend?:</strong>
     This workshop is open to American Astronomical Society Meeting 243 attendees and registration is managed through the AAS website. 
     This course is aimed at astronomers at all stages of their education and careers. Participants are expected to have shell and Python knowledge equivalent to the Software Carpentry Python Curriculum (https://swcarpentry.github.io/python-novice-inflammation/): the ability to write a function in Python, familiarity with Python built-in types such as lists and dictionaries, and the ability to navigate directories using the command line. In addition, this lesson assumes that learners have some familiarity with astronomical concepts, including reference frames, proper motion, color-magnitude diagrams, globular clusters, and isochrones.
-
+</p>
+<p>
     Registration is for both days and due to the cumulative nature of the workshop, participants are expected to participate in both days fully. Participants will need personal computers and to be able to install software in advance of the workshop. A group list will be compiled approximately one month prior to the workshop to distribute software requirements and provide collaborative troubleshooting. More information on the Data Carpentry project can be found at https://datacarpentry.org and on this curriculum at https://datacarpentry.org/astronomy-python/.
 </p>
 
